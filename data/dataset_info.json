@@ -2,6 +2,13 @@
   "identity": {
     "file_name": "identity.json"
   },
+  "cell_data_parts": {
+  "file_name": "cell_data_part_*.json",
+  "formatting": "gemma3",
+  "columns": {
+    "text": "text"
+  }
+}
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
