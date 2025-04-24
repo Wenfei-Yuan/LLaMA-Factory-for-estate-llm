@@ -3,11 +3,7 @@
     "file_name": "identity.json"
   },
   "cell_data_part_1": {
-  "file_name": "cell_data_part_1.json",
-  "formatting": "gemma3",
-  "columns": {
-    "text": "text"
-  }
+  "file_name": "cell_data_part_1.json"
 },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
