@@ -5,6 +5,30 @@
   "cell_data_part_1": {
   "file_name": "cell_data_part_1.json"
 },
+    "cell_data_part_2": {
+  "file_name": "cell_data_part_2.json"
+},
+    "cell_data_part_3": {
+  "file_name": "cell_data_part_3.json"
+},
+    "cell_data_part_4": {
+  "file_name": "cell_data_part_4.json"
+},
+    "cell_data_part_5": {
+  "file_name": "cell_data_part_5.json"
+},
+    "cell_data_part_6": {
+  "file_name": "cell_data_part_6.json"
+},
+    "cell_data_part_7": {
+  "file_name": "cell_data_part_7.json"
+},
+    "cell_data_part_8": {
+  "file_name": "cell_data_part_8.json"
+},
+    "cell_data_part_9": {
+  "file_name": "cell_data_part_9.json"
+},
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
