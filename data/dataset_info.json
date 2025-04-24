@@ -2,8 +2,8 @@
   "identity": {
     "file_name": "identity.json"
   },
-  "cell_data_parts": {
-  "file_name": "cell_data_part_*.json",
+  "cell_data_part_1": {
+  "file_name": "cell_data_part_1.json",
   "formatting": "gemma3",
   "columns": {
     "text": "text"
